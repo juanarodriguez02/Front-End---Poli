@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "titulo": "La innovación tecnológica impulsa el futuro",
+    "categoria": "Tecnología",
+    "resumen": "Descubre cómo las nuevas tecnologías están transformando industrias, mejorando la vida de las personas y construyendo un mundo más conectado.",
+    "contenido": "La innovación tecnológica está cambiando la manera en que vivimos y trabajamos. Desde asistentes inteligentes hasta experiencias digitales más accesibles, la tecnología abre nuevas oportunidades.\n\nLas organizaciones están adoptando soluciones basadas en datos para mejorar sus decisiones, automatizar tareas y ofrecer mejores experiencias. El reto consiste en innovar con responsabilidad, seguridad y enfoque humano.",
+    "fecha": "18 de mayo de 2025",
+    "autor": "Admin",
+    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "destacada": true,
+    "etiquetas": [
+      "Innovación",
+      "Tecnología",
+      "Futuro"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Energías renovables: un futuro sostenible",
+    "categoria": "Tecnología",
+    "resumen": "Las energías limpias son clave para reducir el impacto ambiental y construir ciudades sostenibles.",
+    "contenido": "La transición energética integra nuevas fuentes de generación y hábitos de consumo responsables. La innovación permite aprovechar mejor el sol y el viento.",
+    "fecha": "16 de mayo de 2025",
+    "autor": "Redacción",
+    "imagen": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=1000&q=80",
+    "destacada": false,
+    "etiquetas": [
+      "Energía",
+      "Sostenibilidad"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "La educación digital transforma el aprendizaje",
+    "categoria": "Educación",
+    "resumen": "Plataformas y herramientas digitales permiten aprender de forma flexible, personalizada y colaborativa.",
+    "contenido": "La educación digital amplía el acceso a contenidos y hace posible adaptar las experiencias al ritmo de cada estudiante.",
+    "fecha": "15 de mayo de 2025",
+    "autor": "Equipo educativo",
+    "imagen": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=80",
+    "destacada": false,
+    "etiquetas": [
+      "Aprendizaje",
+      "Educación"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Los destinos naturales que debes conocer",
+    "categoria": "Turismo",
+    "resumen": "Explora lugares naturales inolvidables y recomendaciones para viajar de manera responsable.",
+    "contenido": "Conocer nuevos destinos también implica protegerlos. Elegir operadores responsables y respetar los ecosistemas mejora cada experiencia.",
+    "fecha": "14 de mayo de 2025",
+    "autor": "Viajes",
+    "imagen": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1000&q=80",
+    "destacada": false,
+    "etiquetas": [
+      "Naturaleza",
+      "Viajes"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "El comercio electrónico sigue creciendo",
+    "categoria": "Negocios",
+    "resumen": "Cada vez más personas eligen comprar en línea por su comodidad, variedad y rapidez.",
+    "contenido": "El comercio electrónico impulsa nuevos modelos de negocio y exige experiencias seguras, claras y accesibles para los clientes.",
+    "fecha": "13 de mayo de 2025",
+    "autor": "Negocios",
+    "imagen": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=1000&q=80",
+    "destacada": false,
+    "etiquetas": [
+      "Comercio",
+      "Digital"
+    ]
+  }
+]

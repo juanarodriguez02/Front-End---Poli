@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Prototipo funcional de portal de noticias">
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+
+    <title>NoticiasWeb</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="#inicio">Noticias<span>Web</span></a>
+        <button class="menu" id="menuBtn" aria-label="Abrir menú">☰</button>
+        <nav class="nav" id="nav">
+          <a href="#inicio">Inicio</a>
+          <a href="#noticias">Noticias</a>
+          <a href="#favoritos">Favoritos</a>
+          <a href="#contacto">Contacto</a>
+        </nav>
+        <form class="search" id="searchForm">
+          <input id="searchInput" placeholder="Buscar noticias..." aria-label="Buscar noticias">
+          <button aria-label="Buscar">⌕</button>
+        </form>
+        <a class="fav-link" href="#favoritos" aria-label="Favoritos">♡<span class="fav-count">0</span></a>
+      </div>
+    </header>
+
+    <div id="app"></div>
+
+    <footer class="footer">
+      <div class="container footer-inner">
+        <span>© 2026 NoticiasWeb. Todos los derechos reservados.</span>
+        <span>Términos de uso · Política de privacidad · Aviso legal</span>
+        <span class="socials">● ◉ ◍ ●</span>
+      </div>
+    </footer>
+
+    <div class="toast" id="toast" role="status"></div>
+    <script src="js/app.js"></script>
+  </body>
+</html>
